@@ -1,0 +1,22 @@
+SITE INSTITUCIONAL - 60.297.606 LUCAS MAIA RODRIGUES
+
+Arquivos:
+- index.html: página principal
+- sobre.html: página Sobre
+- privacidade.html: Política de Privacidade
+- termos.html: Termos de Uso
+- style.css: estilos personalizados
+- assets/: imagens fornecidas pelo cliente
+
+Como publicar:
+1. Extraia todos os arquivos mantendo a estrutura de pastas.
+2. Envie os arquivos para a pasta pública do seu domínio (geralmente public_html).
+3. A página inicial deve permanecer com o nome index.html.
+4. O site usa Bootstrap 5.3.3 e Bootstrap Icons por CDN; a hospedagem precisa permitir acesso à internet.
+
+IMPORTANTE:
+- Revise os textos legais com orientação profissional e confirme que descrevem suas práticas reais.
+- Antes de anunciar no Google Ads, confirme que a oferta, endereço, imagens, disponibilidade e condições correspondem ao serviço efetivamente prestado.
+- Não foram incluídos preços, capacidade, serviços, avaliações ou promessas que não foram informados.
+- Se instalar Google Analytics, tag do Google Ads, pixels, cookies de publicidade ou formulário, atualize a Política de Privacidade e implemente os avisos/consentimentos aplicáveis.
+- As imagens da galeria foram fornecidas pelo cliente; confirme que você tem autorização para publicá-las.
